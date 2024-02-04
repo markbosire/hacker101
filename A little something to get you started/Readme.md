@@ -31,7 +31,7 @@ Upon accessing the challenge webpage, you will be greeted with a simple HTML str
 ## Instructions
 
 1. **Access the Webpage:** Visit the provided URL to access the challenge.
-2. **Inspect the Page:** Open the browser's developer tools (usually with `Right Click > Inspect` or `Ctrl+Shift+I`) and examine the HTML structure.
+2. **Inspect the Page:** Open the browser's developer tools (usually with `View Page Source > Inspect` or `Ctrl+Shift+I`) and examine the HTML structure.
 3. **Look for Clues:** Pay close attention to the HTML tags and attributes. There's something hidden that will lead you to the flag.
 
 ## Solution
