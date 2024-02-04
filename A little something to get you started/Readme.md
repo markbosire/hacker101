@@ -54,6 +54,4 @@ This challenge is released under the [MIT License](LICENSE).
 ---
 
 Happy hacking!
-```
 
-Remember to replace placeholders, and if you have specific instructions or additional details about the challenge, make sure to include them in the README.
