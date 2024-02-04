@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # A little something to get you started - Level 0
 
 ## Challenge Overview
