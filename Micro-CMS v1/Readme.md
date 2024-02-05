@@ -108,4 +108,6 @@ $stmt->execute();
 
 ---
 
-That's a brief overview of my experience with Micro-CMS v1 CTF. Remember, ethical hacking helps improve security. Stay curious and secure! 🚀✨
+That's a brief overview of my experience with Micro-CMS v1 CTF. Remember, ethical hacking helps improve security. 
+
+**Happy Hacking**Stay curious and secure! 🚀✨
