@@ -1,5 +1,5 @@
 # Micro-CMS v1
-##Level: easy
+## Level: easy
  This easy difficulty challenge had me hunting for four flags, each exploiting a different vulnerability. Let me walk you through my journey.
 
 ## Flag 1: Insecure Direct Object Reference (IDOR)
