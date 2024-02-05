@@ -128,4 +128,4 @@ ScRipT>alert(1)</sCriPt>
 - When encountering a filtered script, consider variations or using different delimiters.
 - Use the developer console for DOM XSS, and inspect source won't show DOM elements.
 
-Happy hacking! 🚀✨
+**Happy hacking!** Stay curious and secure! 🚀✨
