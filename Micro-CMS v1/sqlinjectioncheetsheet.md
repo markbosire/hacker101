@@ -942,4 +942,4 @@ admin") or "1"="1"/*
 👉 https://cheatsheetseries.owasp.org/cheatsheets/Query_Parameterization_Cheat_Sheet.html
 
 
-Happy Hacking! Stay curious and secure! 🚀✨
+**Happy hacking!** Stay curious and secure! 🚀✨
