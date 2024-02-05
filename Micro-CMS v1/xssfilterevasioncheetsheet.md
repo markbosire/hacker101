@@ -176,4 +176,5 @@ Explore various string generation methods:
 
 Filtering alone is insufficient; developers play a crucial role in securing applications. Context-sensitive escaping, proper encoding, and the use of HTTP security headers help prevent XSS. Focus on developing secure code to enhance application and user security.
 
-**Thank you for reading! Feel free to checkout out on Twitter: [@N3T_hunt3r](https://twitter.com/N3T_hunt3r)**
+**Thank you for reading! please checkout out on Twitter they are the source for this: [@N3T_hunt3r](https://twitter.com/N3T_hunt3r)**
+**Happy hacking!** Stay curious and secure! 🚀✨
