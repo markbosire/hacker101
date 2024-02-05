@@ -1,6 +1,6 @@
-# Persona: Ethical Hacker
-
-Hey there! I recently had a blast completing the Micro-CMS v1 Capture The Flag (CTF) challenge on Hacker101. This easy difficulty challenge had me hunting for four flags, each exploiting a different vulnerability. Let me walk you through my journey.
+# Micro-CMS v1
+##Level: easy
+ This easy difficulty challenge had me hunting for four flags, each exploiting a different vulnerability. Let me walk you through my journey.
 
 ## Flag 1: Insecure Direct Object Reference (IDOR)
 
@@ -85,7 +85,7 @@ sanitized_input = escape(user_input)
 
 ## Flag 4: Single Quote SQL Injection
 
-The last challenge involved Single Quote SQL Injection. By injecting a single quote into the user input, I disrupted the SQL query structure to gain unauthorized access.
+The last challenge involved Single Quote SQL Injection. By injecting a single quote into the browser input.
 
 Example Input:
 ```plaintext
