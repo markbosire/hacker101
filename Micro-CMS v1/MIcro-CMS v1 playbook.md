@@ -44,18 +44,15 @@ Micro-CMS v1 contains common web application vulnerabilities such as Cross-Site 
 
 1. **Input Fields:**
    - Identify input fields susceptible to SQL Injection.
-   - Use techniques like UNION-based or error-based SQL Injection.
 
-2. **Error Messages:**
-   - Exploit error messages to gather information about the database.
+
 
 ### Pseudo-protocols
 
 1. **JavaScript Pseudo-protocols:**
    - Exploit vulnerabilities using javascript: and data: pseudo-protocols.
 
-2. **VBScript Pseudo-protocol:**
-   - Leverage vbscript: or vbs: for potential Internet Explorer-specific vulnerabilities.
+
 
 ## Post-Exploitation
 
