@@ -940,3 +940,4 @@ admin") or "1"="1"/*
 * SQL Injection Query Parameterization Cheat Sheet 
 
 👉 https://cheatsheetseries.owasp.org/cheatsheets/Query_Parameterization_Cheat_Sheet.html
+Stay curious and secure! 🚀✨
